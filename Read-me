@@ -1,0 +1,8 @@
+1 - create folder "colors" inside:
+/home/fgirardi/.vim
+
+2 - put the file "hybrid.vim" inside "colors"
+
+3 - Replace .vim with this
+
+4 - Launch vim and run :PluginInstall
